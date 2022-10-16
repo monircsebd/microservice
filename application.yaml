@@ -2,7 +2,7 @@ gateway:
   ip: 10.11.224.68
 
 token:
-  expiration_time: 860000000 # 10days
+  expiration_time: 8600000000 # 10days
   secret: secret1234
 
 login:
